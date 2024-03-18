@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on pursuing my passion and honing y technical skills at Boise CodeWorks, and intense bootcamp-style software development course.
+- 🔭 I’m currently working on pursuing my passion and honing my technical skills at Boise CodeWorks, an intense bootcamp-style software development program.
 - 🌱 I’m currently learning Javascript, Vue.js, Node.js, Mongoose, MongoDB, Express, HTML, CSS, and about to venture into C#.
-- 📫 How to reach me: LinkedIn/In/MeganMarieHancock
+- 📫 How to reach me: LinkedIn/In/MeganMarieHancock -or- MeganHancockDev@gmail.com
